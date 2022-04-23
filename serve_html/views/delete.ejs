@@ -1,0 +1,11 @@
+<script src="js/delete.js"></script>
+	<p>To delete a book, click on red X button. </p>
+	<div class="deletebook">
+		{{#each books}}
+		<div class="dn">
+			<a onclick="remove(event,'/DeleteABook/{{bookNumber}}')">X</a>
+			{{bookName}}
+		</div>
+		{{/each}}
+	</div>
+</div>

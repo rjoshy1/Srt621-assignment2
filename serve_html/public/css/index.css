@@ -1,0 +1,40 @@
+.deletebook {width: fit-content;
+    border: 4px solid #979797;
+}
+.dn {display: block;
+    padding: 18px;
+    border: 2px solid #918f8f;
+    color: #000000;}
+.dn a {padding: 3px;
+    margin-right: 6px;
+    border: 1px solid #929191;
+    text-decoration: none;
+    color: red;}
+.Bookadd div {display: block;
+     margin-bottom: 14px;}
+button{margin-left: 35px;
+     display: block;
+     margin-top: 20px;}
+.Bookadd label {display: block;
+     margin-bottom: 10px;
+     margin-top: 10px;}
+.start {color: #0abe52;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;font:bold}
+p{color: rgb(16, 185, 16);
+    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Courier New', Courier, monospace;}
+.cr {border: 4px solid #919191;
+    width: fit-content;}
+.dr{display: block;
+    padding: 19px;
+    border: 4px solid #818181;}
+.b{  font: bold;
+    font-family: 'Courier New', Courier, monospace;}
+.yoyo{display: block;
+    color: #0abe52;}
+.navigation {color: red;
+    margin-top: 24px;}
+.navigation a {padding: 0 3px;
+    text-decoration: none;
+    color: #000000;}
